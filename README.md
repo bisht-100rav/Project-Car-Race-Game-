@@ -24,3 +24,7 @@ The game includes three scenes(windows) i.e.
 Simple 256 by 256 by 256 RGB color codes were used as color filling. 
 Game involves a frame rate of (64) tick which can be adjusted inside the code.
 
+
+To run this game You need Pycharm 3.0 // Python 3.0 installed inside your compputer.
+All the files including sprites and sound must be within "Pygame.py" named file 
+

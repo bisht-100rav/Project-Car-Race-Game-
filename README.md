@@ -6,7 +6,7 @@
 PIXEL RACE : INFINITY
 ========================================================================================================================================
 
-Simple Car Race game made using Pycharm involving libraries Pygame. Almost all the sprites were made using Photoshop pixel art.
+Simple Car Race game made using Pycharm with main library Pygame. Almost all the sprites were made using Photoshop pixel art.
 All photoshop files '.psd' are available inside the repository.
 
 
@@ -25,6 +25,6 @@ Simple 256 by 256 by 256 RGB color codes were used as color filling.
 Game involves a frame rate of (64) tick which can be adjusted inside the code.
 
 
-To run this game You need Pycharm 3.0 // Python 3.0 installed in your compputer.
+To run this game You need Pycharm 3.0 // Python 3.0 installed in your computer.
 All the files including sprites and sound must be within "CarRace.py" named file. 
 
